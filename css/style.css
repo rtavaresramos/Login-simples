@@ -23,6 +23,7 @@ body {
 input {
     height: 25px;
     width: 300px;
+    color: #fff;
     background: #313131;
     margin: 1.5px;
     padding: 1.5px;
@@ -74,6 +75,8 @@ button {
     button {
         padding: 5px; 
         margin: 8px;
+        background: #313131;
+        box-shadow: #313131;
         
     }
 }
@@ -114,7 +117,8 @@ button {
     button {
         height: 115px;
         width: 300px;
-        background: #fff;
+        background: #313131;
+        box-shadow: #313131;;
         font-size: 1em;
         padding: 5px; 
         margin: 10px;
